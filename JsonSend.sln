@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonSend og modtag", "JsonSend og modtag\JsonSend og modtag.csproj", "{F19B0C36-B831-4D2E-9F0B-5F2A6838929E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F19B0C36-B831-4D2E-9F0B-5F2A6838929E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19B0C36-B831-4D2E-9F0B-5F2A6838929E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19B0C36-B831-4D2E-9F0B-5F2A6838929E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19B0C36-B831-4D2E-9F0B-5F2A6838929E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {744AE716-3FF7-4A7C-9502-91A73A33E8DE}
+	EndGlobalSection
+EndGlobal
