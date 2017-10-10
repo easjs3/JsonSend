@@ -4,14 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JsonSend_og_modtag
+namespace JsonModtag
 {
     class Program
     {
         static void Main(string[] args)
         {
-            JsonSender jsonSender = new JsonSender(888);
-            jsonSender.start();
+            jsonmodtager jsonmodtager = new jsonmodtager(888);
+            jsonmodtager.start();
+
             Console.ReadLine();
 
         }

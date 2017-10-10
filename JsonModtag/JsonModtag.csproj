@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F19B0C36-B831-4D2E-9F0B-5F2A6838929E}</ProjectGuid>
+    <ProjectGuid>{BE016ABC-7E4F-4BFB-B4B5-0A9E1F21473C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>JsonSend_og_modtag</RootNamespace>
-    <AssemblyName>JsonSend og modtag</AssemblyName>
+    <RootNamespace>JsonModtag</RootNamespace>
+    <AssemblyName>JsonModtag</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,7 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="car.cs" />
-    <Compile Include="JsonSender.cs" />
+    <Compile Include="jsonmodtager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
